@@ -1,6 +1,6 @@
 Name:		x11-font-adobe-utopia-100dpi
 Version:	1.0.4
-Release:	2
+Release:	3
 Summary:	Xorg X11 font adobe-utopia-100dpi
 Group:		Development/X11
 URL:	http://xorg.freedesktop.org
